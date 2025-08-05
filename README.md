@@ -1,18 +1,16 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Experience Cloud: Real-Time Drawing Board
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+A Lightning Web Component hosted on Experience Cloud subscribes to Platform Events and allows both authenticated and guest users to receive and publish events. It enables real-time drawing functionality, where every circle, shape, or line is instantly visible to all active users.
 
-## How Do You Plan to Deploy Your Changes?
+## Analytics
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+At its peak, the Experience Cloud site successfully supported 16 active guest users drawing in real time. No critical issues were encountered — only opportunities for optimization.
 
-## Configure Your Salesforce DX Project
+In just 3 hours, we managed to hit Salesforce’s Sandbox limit of 10,000 delivered Platform Events. Huge thanks to everyone who participated! Sometimes, the unreal becomes real — all it takes is a bit of effort and one sleepless night.
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+A detailed technical analysis is available in the links below.
 
 ## Read All About It
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- [How I Built a Real-Time Drawing Board for Community & Guest Users in Experience Cloud](https://medium.com/@ansukhetskyi/how-i-built-a-real-time-drawing-board-for-community-guest-users-in-experience-cloud-c1028a42ddf5?source=friends_link&sk=813fcc8ee615fe1e0a69adaa5da7ae28)
+- [Salesforce Experience Cloud: Real-Time Site for Guest Users 🤯](https://www.linkedin.com/posts/andrii-sukhetskyi-305939201_salesforce-experience-cloud-real-time-site-activity-7357806771995897856-ruKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOS7XUBDuxxTkYmrhqzteHnurcb2H06L3I)
