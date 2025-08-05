@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Default</label>
+    <protected>false</protected>
+    <values>
+        <field>InitialState__c</field>
+        <value xsi:type="xsd:string">eNqF0kEOxCAIBdC7uO5CRUB6lab36GQyd5+FtVP+pGH5BAQN2/ZOR1qpL+mV1mqf5W4q0zZM4Ha65WEBm3fj6TKs3kxgiEsGC9i8tYAbGOpV/bzavXsOXMAtMIP1z/uy3U8YfpjhBT9XMIEbmMEKNm+Gfnz2my9iCsyB5cnzR3hMWMVnhDZvgg4E8UYwQQ4mhHqBuEBc4X698tXv4LR59zrd/Y49mcESWANf+Tbv3/cv/7MbOQ==</value>
+    </values>
+</CustomMetadata>
