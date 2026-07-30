@@ -12,5 +12,5 @@ A detailed technical analysis is available in the links below.
 
 ## Read All About It
 
-- [How I Built a Real-Time Drawing Board for Community & Guest Users in Experience Cloud](https://medium.com/@ansukhetskyi/how-i-built-a-real-time-drawing-board-for-community-guest-users-in-experience-cloud-c1028a42ddf5?source=friends_link&sk=813fcc8ee615fe1e0a69adaa5da7ae28)
+- [How I Built a Real-Time Drawing Board for Community & Guest Users in Experience Cloud](https://www.bulkifiedthinking.com/how-i-built-a-real-time-drawing-board-salesforce-experience-cloud/)
 - [Salesforce Experience Cloud: Real-Time Site for Guest Users 🤯](https://www.linkedin.com/posts/andrii-sukhetskyi-305939201_salesforce-experience-cloud-real-time-site-activity-7357806771995897856-ruKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOS7XUBDuxxTkYmrhqzteHnurcb2H06L3I)
